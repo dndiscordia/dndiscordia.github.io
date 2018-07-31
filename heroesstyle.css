@@ -1,0 +1,61 @@
+.image {
+    display: block;
+    width: 100%;
+    max-width: 330px;
+    margin: 0 auto;
+}
+
+.character-name {
+    text-align: left;
+}
+
+.bgtest {
+    height: 100%;
+    background-color: black;
+}
+
+.rowfix {
+    align-content: space-around;
+}
+
+.bg-rapia {
+    background-position: center;
+    background-image: url(rapiabg.png);
+    background-size: cover;    
+}
+
+.bg-rorri {
+    background-position: center;
+    background-image: url(rorribg.png);
+    background-size: cover;    
+}
+
+.bg-sirlenard {
+    background-position: center;
+    background-image: url(sirlenardbg.png);
+    background-size: cover;    
+}
+
+.bg-teler {
+    background-position: center;
+    background-image: url(telerbg.png);
+    background-size: cover;    
+}
+
+.bg-trokaz {
+    background-position: center;
+    background-image: url(trokazbg.png);
+    background-size: cover;    
+}
+
+hr {
+    background-color: red;
+}
+
+.description {
+    text-align: justify;
+}
+
+.righttext {
+    text-align: right;
+}

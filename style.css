@@ -1,0 +1,81 @@
+.navbar-brand {
+    margin-left: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-item {
+    margin-left: 2em;
+}
+
+.bg-dark {
+    background-color: #26282a;
+}
+
+.navcustoms {
+    border-top: 1px solid red;
+}
+
+body {
+    background-color: #171517;
+}
+
+.homeimage {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    background-color: #171517;
+    background-image: url(https://media-waterdeep.cursecdn.com/attachments/3/471/general01hero.jpg);
+    background-position: bottom center;
+    background-size: auto 500px;
+    z-index: 0;
+    height: 500px;
+    top: 57px;
+}
+
+.homeinfoleft {
+    padding-left: 4em;
+    padding-right: 1em;
+}
+
+.homeinforight {
+    padding-left: 1em;
+    padding-right: 4em;
+}
+
+.videodisplay {
+    background-color: rgb(142, 142, 142);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(66, 66, 66);
+    border-image: initial;
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+}
+
+.div_footer {
+    margin-top: 400px;
+    width: 100%;
+    height: 100%;
+}
+
+.character-container {
+    padding-top: 4em;
+}
+
+p, h1, h2, h3, h4 {
+    color: #f3f3f3;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text-primary {
+    color: red!important;
+}
+
+.text-success {
+    color: rgb(0, 202, 0)!important;
+}
